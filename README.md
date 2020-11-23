@@ -7,7 +7,7 @@ https://learn.adafruit.com/adafruit-circuit-playground-express/overview
 There are 4 files required:
 1.	boot.py – you’ll probably already have this when you setup circuitpython but you’ll need to copy the code from my one so that it enables code.py to write to the system memory for logging.
 2.	lucid_setting.txt – this is to load and save settings for delay offset and NeoPixel brightness for dream cues.
-3.	logfile.csv – logs data such as eye and face movement.
+3.	logfile.csv – logs data such as eye and face movement, I've kept some short sample data in this one as an example.
 4.	code.py – main source code of the project.
 
 The code should be self expanatory but essentially:

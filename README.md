@@ -1,4 +1,4 @@
-# dream_monocle
+# CPX M0 dream monocle
 See blog post and Youtube video for info first and I should advise that although this is less than 300 lines of code and generally intuitive, it is not a copy and paste job and you will likely to test and refine as per notes:
 
 Also if you’re not familiar with the CPX and  similar boards, check the overview site and try some of the tutorial projects first:

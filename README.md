@@ -1,8 +1,9 @@
 # CPX M0 dream monocle
 See blog post and Youtube video for info and I should advise that although this is less than 300 lines of code and generally intuitive, it is not a copy and paste job and you will likely need to test and refine as per notes:
 
-
 Also if you’re not familiar with the CPX and similar boards, check the overview site and try some of the tutorial projects first:
+https://learn.adafruit.com/adafruit-circuit-playground-express/overview
+
 There are 4 files required:
 1.	boot.py – you’ll probably already have this when you setup circuitpython but you’ll need to copy the code from my one so that it enables code.py to write to the system memory for logging.
 2.	lucid_setting.txt – this is to load and save settings for delay offset and NeoPixel brightness for dream cues.
